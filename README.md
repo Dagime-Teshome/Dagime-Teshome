@@ -1,6 +1,8 @@
 # Hey, I'm Dagime 👋
 
-I'm a Software Engineer with a passion for building web applications. Here are some technologies I work with:
+I'm a Software Engineer with a passion for building web applications. Here's my tech stack:
+
+## Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -14,6 +16,15 @@ I'm a Software Engineer with a passion for building web applications. Here are s
 </p>
 
 > “Obviously somebody had been appallingly incompetent and he hoped to God it wasn’t him.”
+
+## When Not Working
+
+When I'm not coding, you can find me:
+
+![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white)
+![Kindle](https://img.shields.io/badge/Kindle-FF9900?style=flat-square&logo=Amazon-Kindle&logoColor=white)
+![Premier League](https://img.shields.io/badge/Premier%20League-34EA32?style=flat-square&logo=Premier-League&logoColor=white)
+![Playstation](https://img.shields.io/badge/PlayStation-003791?style=flat-square&logo=PlayStation&logoColor=white)
 
 ## 📊 GitHub Stats
 
