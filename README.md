@@ -15,7 +15,7 @@ I'm a Software Engineer with a passion for building web applications. Here's my 
 </p>
 
 > “”
-> [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Obviously+somebody+had+been+appallingly+incompetent+and+he+hoped+to+God+it+wasn’t+him.type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+> [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Obviously+somebody+had+been+appallingly+incompetent+and+he+hoped+to+God+it+wasn’t+him&author=Douglas+Adams&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## When Not Working
 
