@@ -14,8 +14,8 @@ I'm a Software Engineer with a passion for building web applications. Here's my 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-> “Obviously somebody had been appallingly incompetent and he hoped to God it wasn’t him.”
-> [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+> “”
+> [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Obviously somebody had been appallingly incompetent and he hoped to God it wasn’t him.  type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## When Not Working
 
