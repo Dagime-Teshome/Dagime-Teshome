@@ -26,8 +26,8 @@ I'm a Software Engineer with a passion for building web applications. Here are s
 
 ## 📊 GitHub Stats
 
-![Dagime's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Dagime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dagime-Teshome&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagime-Teshome&layout=compact&theme=radical)
 
 <!-- Replace 'YOUR_GITHUB_USERNAME' with your actual GitHub username -->
