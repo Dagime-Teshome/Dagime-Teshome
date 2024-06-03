@@ -14,7 +14,7 @@ I'm a Software Engineer with a passion for building web applications. Here's my 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-> “”
+
 > [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Obviously+somebody+had+been+appallingly+incompetent+and+he+hoped+to+God+it+wasn’t+him&author=Douglas+Adams&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## When Not Working
