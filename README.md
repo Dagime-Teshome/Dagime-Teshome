@@ -15,10 +15,10 @@ I'm a Software Engineer with a passion for building web applications. Here's my 
 </p>
 
 <h2 align="center">💬 Quote</h2>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?quote=Obviously+somebody+had+been+appallingly+incompetent+and+he+hoped+to+God+it+wasn’t+him&author=Douglas+Adams&type=horizontal&theme=dark"   align="center" />
+</div>
 
-<p align="center">
-  “Obviously somebody had been appallingly incompetent and he hoped to God it wasn’t him.”
-</p>
 
 <h2 align="center">🎮 When Not Working</h2>
 
