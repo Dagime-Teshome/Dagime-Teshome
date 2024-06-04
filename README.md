@@ -2,7 +2,9 @@
 
 I'm a Software Engineer with a passion for building web applications. Here's my tech stack:
 
+<h2 align="center">
 ## Tech Stack
+</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
